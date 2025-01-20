@@ -6,4 +6,5 @@ fn main() {
     sort::basic::selection_sort();
 
     sort::merge_sort::sort();
+    sort::quick_sort::sort();
 }
